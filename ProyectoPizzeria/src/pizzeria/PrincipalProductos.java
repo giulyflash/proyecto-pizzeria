@@ -8,7 +8,7 @@ package pizzeria;
  *
  * @author JEscalante
  */
-public class PrincipalProductos extends javax.swing.JFrame {
+public class PrincipalProductos extends javax.swing.JInternalFrame {
 
     /**
      * Creates new form PrincipalProductos
@@ -73,7 +73,7 @@ public class PrincipalProductos extends javax.swing.JFrame {
         ));
         jScrollPane1.setViewportView(jTable1);
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jButton5.setText("Nuevo");
         jButton5.setPreferredSize(new java.awt.Dimension(63, 30));
