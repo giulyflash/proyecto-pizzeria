@@ -8,7 +8,7 @@ package pizzeria;
  *
  * @author Gerson de Leon
  */
-public class Reportes extends javax.swing.JFrame {
+public class Reportes extends javax.swing.JInternalFrame {
 
     /**
      * Creates new form Reportes
