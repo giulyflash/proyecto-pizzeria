@@ -8,7 +8,7 @@ package pizzeria;
  *
  * @author JEscalante
  */
-public class PrincipalMenus extends javax.swing.JFrame {
+public class PrincipalMenus extends javax.swing.JInternalFrame {
 
     /**
      * Creates new form ListadoMenus
